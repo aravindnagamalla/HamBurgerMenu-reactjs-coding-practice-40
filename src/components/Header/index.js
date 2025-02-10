@@ -24,7 +24,7 @@ const Header = () => (
           <button
             className="hamburger-icon-button"
             type="button"
-            testid="hamburgerIconButton"
+            data-testid="hamburgerIconButton"
           >
             <GiHamburgerMenu size="30" />
           </button>
